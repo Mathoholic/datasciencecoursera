@@ -1,6 +1,6 @@
 # Week 2 Assignments
 
--Calculate the mean
+- Calculate the mean
 
 Write a function named 'pollutantmean' that calculates the mean 
 of a pollutant (sulfate or nitrate) across a specified list of monitors. 
@@ -10,13 +10,13 @@ matter data from the directory specified in the 'directory' argument and returns
 mean of the pollutant across all of the monitors, ignoring any missing values coded as NA. 
 
 
--Complete Cases
+- Complete Cases
 
 Write a function that reads a directory full of files and reports the number of completely 
 observed cases in each data file. The function should return a data frame where the first 
 column is the name of the file and the second column is the number of complete cases. 
 
--Correlations
+- Correlations
 
 Write a function that takes a directory of data files and a threshold for complete cases 
 and calculates the correlation between sulfate and nitrate for monitor locations where the 
